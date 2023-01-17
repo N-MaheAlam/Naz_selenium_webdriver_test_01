@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="19" total="20" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4157" started-at="2023-01-16T15:29:06 EST" finished-at="2023-01-16T15:29:10 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4157" started-at="2023-01-16T15:29:06 EST" finished-at="2023-01-16T15:29:10 EST">
+      <class name="take_Home_WebDriver_Test.testCasePackage.WebDriverTest_01">
+        <test-method status="PASS" signature="intitiateBrowser()[pri:0, instance:take_Home_WebDriver_Test.testCasePackage.WebDriverTest_01@64f6106c]" name="intitiateBrowser" is-config="true" duration-ms="2461" started-at="2023-01-16T15:29:06 EST" finished-at="2023-01-16T15:29:08 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitiateBrowser -->
+        <test-method status="PASS" signature="testCase_07_DragAndDrop()[pri:0, instance:take_Home_WebDriver_Test.testCasePackage.WebDriverTest_01@64f6106c]" name="testCase_07_DragAndDrop" duration-ms="1543" started-at="2023-01-16T15:29:08 EST" finished-at="2023-01-16T15:29:10 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase_07_DragAndDrop -->
+        <test-method status="PASS" signature="tearBrowser()[pri:0, instance:take_Home_WebDriver_Test.testCasePackage.WebDriverTest_01@64f6106c]" name="tearBrowser" is-config="true" duration-ms="125" started-at="2023-01-16T15:29:10 EST" finished-at="2023-01-16T15:29:10 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearBrowser -->
+      </class> <!-- take_Home_WebDriver_Test.testCasePackage.WebDriverTest_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
